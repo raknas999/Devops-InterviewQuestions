@@ -1,0 +1,47 @@
+
+Intro:
+-->your name and experience
+my name is xyz and I have x years of experience in devops
+
+-->what is the experience on the tools
+I worked for multiple projects to setup Build and deployment automations and infra structure automations using tools like
+Version control tool - git
+Integration tool - Jenkins
+Code Quality tool - sonarqube
+Build tool - Maven
+Artifactory management tool - Nexus
+Containerization tool - docker
+orchestration tool - kubernetes
+Montirong tool - Nagios, Promotheous and Grafana
+Log streaming tool - ELK
+Scripting tools - Shell and Python
+We are managing infratstructure on AWS cloud using services like
+EC2, S3, IAM, Load Balancers, AutoScaling, Cloud Formation templates, Route53, VPC, Cloudwatch, RDS, Lambda etc..
+
+--> Current Project
+What ever the latest proeject placed in the resume mention the proeject like(for reference below, you have to update according to your proj)
+
+Current project working for Telecommunication and it has the services like home automations, fiber, cables, Licence, Tracking , our team
+resonsiblities to manage high avialability and scalability of the services
+
+---> Roles and Responsibilites
+
+Make sure that the pipeline is running smoothly – This is one of the most important task of a DevOps engineer to make sure that CI/CD pipeline is intact and fixing any issue or failure with it is the #1 priority for the day. They often need to spend time on troubleshooting, analysing and providing fixes to issues.
+
+Interaction with other teams – Co-ordination and collaboration is the key for DevOps to be successful and hence daily integration with Dev and QA team, Program management, IT is always required.
+
+Work on Automation Backlog – Automation is soul of DevOps so DevOps engineering need to plan it out and I can see DevOps engineer spending lots of time behind the keyboard working on Automating stuff on daily basis.
+
+Infrastructure Management – DevOps engineer are also responsible for maintaining and managing the infrastructure required for CI/CD pipeline and making sure that its up and running and being used optimally is also part of their daily schedule. Ex. Working on Backup, High Availability, New Platform setup etc.
+
+Dealing with Legacy stuff – Not everyone is lucky to work on latest and newest things and DevOps engineers are no exception hence they also need to spend time on legacy i.e. in terms of supporting it or migrating to the latest.
+
+Exploration – DevOps leverage a lot from the various tools which are available, there are many options as open source so team need to regularly check on this to make sure the adoptions as required, this is something which also require some effort not on daily but regular basis. Ex. What are open source options available to keep the cost at minimum?
+
+Removing bottleneck – DevOps primary purpose is identify the bottlenecks / Manual handshakes and work with everyone involved (Dev / QA and all other stakeholder) to remove them so team spend good amount of time in finding such things and build the Automation Backlog using this. Ex. How we can get builds faster?
+
+Documentation – Though Agile / DevOps stresses less on the documentation, it is still the important one which DevOps engineer does on daily basis, Be it Server Information, Daily Week charted, Scrum / Kanban board or Simple steps to configure / backup or modify the infrastructure, you need to spent good amount of time in coming up these artifacts.
+
+Training and Self Development – Self leaning and Training is very useful in getting better understanding and many organisations encourage their employee to take the time out and do some of these and same holds true for DevOps folks as well, So learn something new everyday...
+
+Continuous Improvement as Practice – Last but not least, It’s up to the DevOps folks to build awareness on the potential of CI/CD and DevOps practices and building a culture of leveraging it for doing things better, reducing re-work, increasing the productivity and optimising the use of existing resources. Go and talk to people to build the DevOps and Continuous Improvement culture...
